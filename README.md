@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Cabral;I'm+22+years+old;I'm+from+Brazil;I'm+Bachelor's+Mathematics+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
-  ##
-  
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasCabra7&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Cabral github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCabra7&layout=compact&hide_border=true&title_color=66CDAA&text_color=66CDAA&bg_color=0d1117" />
@@ -25,6 +23,6 @@
   
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasCabra7&bg_color=0d1117&color=66cdaa&line=66cdaa&point=5f9ea0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
