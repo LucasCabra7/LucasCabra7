@@ -26,11 +26,22 @@
     </tr>
     <tr>
       <td><img src="https://github.com/LucasCabra7/LucasCabra7/assets/155683708/14e38554-7713-43f9-9413-88282f3c6f5e" width="240px" height="190px"></td>
-      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
+      <td><img src="https://github.com/LucasCabra7/LucasCabra7/assets/155683708/97a3c2e3-2b88-4003-9d95-6d7bea145afd" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
 
+## 👨🏻‍💻 Main skills
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
+          
+          
+          
+          
+          
+          
+          
+          
+          
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasCabra7&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Cabral github stats" /> 
