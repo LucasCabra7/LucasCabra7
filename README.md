@@ -25,7 +25,7 @@
       <td><b>🧪 Front-End</b></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/LucasCabra7/LucasCabra7/assets/155683708/14e38554-7713-43f9-9413-88282f3c6f5e" width="240px" height="190px"></td>
+      <td><img src="https://github.com/LucasCabra7/LucasCabra7/assets/155683708/4ba06e5b-c3a1-4a18-b9e7-6d13ed207bea" width="340" height="220"></td>
       <td><img src="https://github.com/LucasCabra7/LucasCabra7/assets/155683708/97a3c2e3-2b88-4003-9d95-6d7bea145afd" width="300px" height="170px"> </td>
     </tr>
   </table>
