@@ -34,15 +34,7 @@
 ## 👨🏻‍💻 Main skills
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
           
-          
-          
-          
-          
-          
-          
-          
-          
-
+        
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasCabra7&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Cabral github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCabra7&layout=compact&hide_border=true&title_color=66CDAA&text_color=66CDAA&bg_color=0d1117" />
