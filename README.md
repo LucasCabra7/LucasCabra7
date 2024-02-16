@@ -41,6 +41,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCabra7&layout=compact&hide_border=true&title_color=66CDAA&text_color=66CDAA&bg_color=0d1117" />
 </div>
 
-
+![snake gif](https://github.com/LucasCabra7/LucasCabra7/blob/output/github-contribution-grid-snake.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
