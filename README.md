@@ -21,9 +21,11 @@
   <table>
     <tr>
       <td><b>🧪 development</b></td>
+      <td><b>🖥️ Desktop</b></td>
     </tr>
     <tr>
       <td><img src="https://github.com/LucasCabra7/LucasCabra7/assets/155683708/97a3c2e3-2b88-4003-9d95-6d7bea145afd" width="300px" height="170px"> </td>
+      <td><img src="https://github.com/user-attachments/assets/3e0943f5-eb08-4608-8724-ba022990807c" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
