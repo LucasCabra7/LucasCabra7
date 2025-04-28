@@ -16,7 +16,7 @@
 </div>
 
 ## 💬 About me
-<b>I'm an Information Systems student at CIN/UFPE (Center for Informatics at the Federal University of Pernambuco)</b>. I have skills in Office 365 tools such as PowerPoint and Excel, as well as in programming languages and technologies including Python, JavaScript, CSS3, HTML5, PHP, Verilog, and Power BI. Currently, I'm studying Data Science and developing knowledge in both Back-end and Front-end development.
+Information Systems student at UFPE (2nd semester), with a focus on Data Science. I work with Front-end and Back-end development and have experience with Python, JavaScript, HTML5, CSS3, PHP, R, and MATLAB, as well as tools like GitHub, Office365, and Trello. I have strong skills in data analysis, mathematical modeling, and the development of computational solutions.
 
 ## 📋 Curriculum:
 
