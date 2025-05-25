@@ -63,7 +63,7 @@ https://www.canva.com/design/DAGctUmbcQQ/bBTmuGIlWay972UL5odkHA/edit?utm_content
                     
           
           
-          
+##          
       
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasCabra7&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Cabral github stats" /> 
