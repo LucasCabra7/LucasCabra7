@@ -20,7 +20,9 @@ Information Systems student at UFPE (2nd semester), with a focus on Data Science
 
 ## 📋 Curriculum:
 
-https://www.canva.com/design/DAGctUmbcQQ/bBTmuGIlWay972UL5odkHA/edit?utm_content=DAGctUmbcQQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.notion.so/Sistemas-de-Informa-o-2-P-201c8a2b73e380098f27f7e751e2ab1e?source=copy_link
+
+##
 
 <div align="center">
   <table>
