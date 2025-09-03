@@ -20,7 +20,19 @@ Information Systems student at UFPE (2nd semester), with a focus on Data Science
 
 ## 📋 Curriculum:
 
+Notion: 
 https://www.notion.so/Sistemas-de-Informa-o-2-P-201c8a2b73e380098f27f7e751e2ab1e?source=copy_link
+
+Canva:
+https://www.canva.com/design/DAGuOB1kA0c/dxj_JhdRDIOB11MoQb7yYA/view?utm_content=DAGuOB1kA0c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1a322b3b12
+
+## 🏆 Achievements:
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/82ca4dfc-5210-4975-9d2d-a64993dfe09d" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/153f6201-fb60-45ca-a7a6-87933500a991" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/66bc9b68-5fce-492d-8b74-5bf14256247f" />
+
+
 
 ##
 
