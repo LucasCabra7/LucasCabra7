@@ -16,7 +16,7 @@
 </div>
 
 ## 💬 About me
-Information Systems student at UFPE (2nd semester), with a focus on Data Science. I work with Front-end and Back-end development and have experience with Python, JavaScript, HTML5, CSS3, C++, R, and MATLAB, as well as tools like GitHub, Office365, Trello, Notion, Git and Jira. I have strong skills in data analysis, mathematical modeling, and the development of computational solutions.
+Information Systems student at UFPE (3nd semester), with a focus on Data Science. I work with Front-end and Back-end development and have experience with Python, JavaScript, HTML5, CSS3, C++, R, and MATLAB, as well as tools like GitHub, Office365, Trello, Notion, Git and Jira. I have strong skills in data analysis, mathematical modeling, and the development of computational solutions.
 
 ## 📋 Curriculum:
 
