@@ -23,8 +23,6 @@ Information Systems student at UFPE (3nd semester), with a focus on Data Science
 Notion: 
 https://www.notion.so/Sistemas-de-Informa-o-2-P-201c8a2b73e380098f27f7e751e2ab1e?source=copy_link
 
-Canva:
-https://www.canva.com/design/DAGuOB1kA0c/dxj_JhdRDIOB11MoQb7yYA/view?utm_content=DAGuOB1kA0c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1a322b3b12
 
 ## 🏆 Achievements:
 
