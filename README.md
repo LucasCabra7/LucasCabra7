@@ -22,20 +22,32 @@ Estudante de Sistemas de Informação pela UFPE, com foco em desenvolvimento de 
 
 https://lucascabra7.github.io/LucasCabral.github.io/
 
-##
-
 <div align="center">
-  <table>
-    <tr>
-      <td><b>🧪 Desenvolvedor</b></td>
-      <td><b>🖥️ Desktop</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/LucasCabra7/LucasCabra7/assets/155683708/97a3c2e3-2b88-4003-9d95-6d7bea145afd" width="300px" height="170px"> </td>
-      <td><img src="https://github.com/user-attachments/assets/3e0943f5-eb08-4608-8724-ba022990807c" width="300px" height="170px"> </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <b>🧪 Desenvolvedor</b><br><br>
+      <img 
+        src="https://github.com/LucasCabra7/LucasCabra7/assets/155683708/97a3c2e3-2b88-4003-9d95-6d7bea145afd"
+        width="100%"
+        style="max-width: 300px; border-radius: 10px;"
+      />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <b>🖥️ Desktop</b><br><br>
+      <img 
+        src=""
+
+        width="100%"
+        style="max-width: 300px; border-radius: 10px;"
+      />
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 ## 👨🏻‍💻 Hard skill
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/> 
