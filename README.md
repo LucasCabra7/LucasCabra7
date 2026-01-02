@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
 <img align="right" src="https://komarev.com/ghpvc/?username=LucasCabra7&color=66CDAA"><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Cabral;I'm+23+years+old;I'm+from+Brazil;I'm+Student+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Cabral;Tenho+23+anos;E+sou+Brasileioro;Estudante+de+Sistema+de+Informação+UFPE;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <!-- Work Links -->
@@ -15,29 +15,19 @@
   <a href="https://steamcommunity.com/profiles/76561199132625159/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
-## 💬 About me
-Information Systems student at UFPE (3nd semester), with a focus on Data Science. I work with Front-end and Back-end development and have experience with Python, JavaScript, HTML5, CSS3, C++, R, and MATLAB, as well as tools like GitHub, Office365, Trello, Notion, Git and Jira. I have strong skills in data analysis, mathematical modeling, and the development of computational solutions.
+## 🫰 Sobre mim
+Estudante de Sistemas de Informação pela UFPE, com foco em desenvolvimento de software e ciência de dados, experiência em projetos full stack, análise de dados e atuação em times ágeis. Tenho perfil analítico, boa comunicação e vivência prática como Product Owner e Scrum Master em projetos com impacto social e institucional.
 
-## 📋 Curriculum:
+## 📋 portfólio Digital 
 
-Notion: 
-https://www.notion.so/Sistemas-de-Informa-o-2-P-201c8a2b73e380098f27f7e751e2ab1e?source=copy_link
-
-
-## 🏆 Achievements:
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/82ca4dfc-5210-4975-9d2d-a64993dfe09d" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/153f6201-fb60-45ca-a7a6-87933500a991" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/66bc9b68-5fce-492d-8b74-5bf14256247f" />
-
-
+https://lucascabra7.github.io/LucasCabral.github.io/
 
 ##
 
 <div align="center">
   <table>
     <tr>
-      <td><b>🧪 development</b></td>
+      <td><b>🧪 Desenvolvedor</b></td>
       <td><b>🖥️ Desktop</b></td>
     </tr>
     <tr>
@@ -47,7 +37,7 @@ https://www.notion.so/Sistemas-de-Informa-o-2-P-201c8a2b73e380098f27f7e751e2ab1e
   </table>
 </div>
 
-## 👨🏻‍💻 Main skills
+## 👨🏻‍💻 Hard skill
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -60,19 +50,10 @@ https://www.notion.so/Sistemas-de-Informa-o-2-P-201c8a2b73e380098f27f7e751e2ab1e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
-          
-          
-                    
 
-    
-          
           
 ## 📚 Libraries:         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
-          
-          
-          
-                    
           
           
 ##          
