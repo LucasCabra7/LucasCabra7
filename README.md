@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
 <img align="right" src="https://komarev.com/ghpvc/?username=LucasCabra7&color=66CDAA"><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Cabral;Tenho+23+anos;E+sou+Brasileiro;Estudante+de+Sistemas+de+Informação+UFPE;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Cabral;Tenho+24+anos;E+sou+Brasileiro;Estudante+de+Sistemas+de+Informação+UFPE;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <!-- Work Links -->
